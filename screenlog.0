@@ -1,0 +1,167 @@
+START
+T=0 Q=0
+
+Enabled=1 Speed=0 Power=150
+T=25 Q=1 vel=281 S=91987
+T=35 Q=2 vel=91987 S=21
+T=44 Q=3 vel=21 S=19
+T=49 Q=4 vel=19 S=9
+T=58 Q=5 vel=18 S=0
+T=63 Q=6 vel=8 S=1
+T=72 Q=8 vel=7 S=3
+T=81 Q=10 vel=6 S=4
+T=90 Q=13 vel=5 S=11
+T=100 Q=16 vel=4 S=4
+T=110 Q=20 vel=3 S=1
+T=120 Q=23 vel=5 S=3
+T=130 Q=27 vel=4 S=2
+T=140 Q=32 vel=5 S=3
+T=150 Q=36 vel=3 S=1
+T=160 Q=40 vel=2 S=3
+T=170 Q=45 vel=5 S=1
+T=180 Q=50 vel=2 S=1
+T=190 Q=56 vel=3 S=2
+T=200 Q=61 vel=4 S=0
+T=210 Q=67 vel=2 S=3
+T=220 Q=72 vel=2 S=4
+T=230 Q=79 vel=2 S=0
+T=240 Q=85 vel=3 S=1
+T=250 Q=92 vel=2 S=2
+T=260 Q=98 vel=2 S=1
+T=270 Q=105 vel=3 S=0
+T=280 Q=112 vel=2 S=1
+T=291 Q=119 vel=2 S=2
+T=301 Q=127 vel=2 S=0
+T=311 Q=135 vel=2 S=0
+T=322 Q=142 vel=1 S=2
+T=332 Q=150 vel=1 S=2
+T=343 Q=158 vel=1 S=2
+T=353 Q=166 vel=1 S=2
+T=363 Q=175 vel=1 S=2
+T=374 Q=183 vel=2 S=1
+T=384 Q=192 vel=1 S=0
+T=395 Q=200 vel=1 S=1
+T=405 Q=208 vel=1 S=2
+T=415 Q=217 vel=3 S=1
+T=426 Q=226 vel=1 S=0
+T=436 Q=235 vel=1 S=2
+T=446 Q=244 vel=0 S=0
+T=457 Q=252 vel=1 S=2
+T=467 Q=261 vel=3 S=0
+T=478 Q=270 vel=1 S=1
+T=488 Q=279 vel=1 S=1
+T=499 Q=288 vel=1 S=2
+T=509 Q=297 vel=2 S=1
+T=519 Q=307 vel=1 S=0
+T=530 Q=316 vel=1 S=1
+T=540 Q=326 vel=0 S=0
+T=551 Q=335 vel=1 S=0
+T=561 Q=344 vel=1 S=2
+T=571 Q=354 vel=1 S=0
+T=582 Q=364 vel=1 S=1
+T=592 Q=374 vel=2 S=1
+T=603 Q=384 vel=1 S=0
+T=613 Q=393 vel=2 S=0
+T=623 Q=403 vel=1 S=1
+T=634 Q=413 vel=0 S=3
+T=644 Q=423 vel=1 S=0
+T=654 Q=433 vel=1 S=2
+T=665 Q=443 vel=1 S=1
+T=675 Q=453 vel=2 S=0
+T=686 Q=463 vel=1 S=1
+T=696 Q=473 vel=2 S=0
+T=707 Q=483 vel=1 S=1
+T=717 Q=493 vel=2 S=0
+T=727 Q=504 vel=1 S=0
+T=738 Q=513 vel=2 S=1
+T=748 Q=524 vel=1 S=0
+T=758 Q=533 vel=2 S=0
+T=769 Q=542 vel=1 S=2
+T=779 Q=552 vel=2 S=1
+T=790 Q=560 vel=2 S=0
+T=800 Q=568 vel=1 S=0
+T=811 Q=575 vel=2 S=1
+T=821 Q=582 vel=2 S=1
+T=831 Q=589 vel=4 S=0
+T=842 Q=595 vel=3 S=3
+T=852 Q=600 vel=3 S=1
+T=863 Q=604 vel=3 S=4
+T=873 Q=609 vel=6 S=2
+T=883 Q=614 vel=3 S=2
+T=894 Q=620 vel=3 S=0
+T=904 Q=624 vel=2 S=4
+T=915 Q=628 vel=3 S=6
+T=925 Q=633 vel=7 S=0
+T=935 Q=637 vel=7 S=2
+T=946 Q=642 vel=8 S=3
+T=956 Q=646 vel=3 S=0
+T=967 Q=649 vel=8 S=3
+T=977 Q=652 vel=4 S=9
+T=987 Q=656 vel=4 S=4
+T=998 Q=659 vel=6 S=4
+T=1008 Q=662 vel=5 S=4
+T=1019 Q=665 vel=11 S=2
+T=1030 Q=668 vel=5 S=8
+T=1041 Q=671 vel=7 S=3
+T=1052 Q=674 vel=12 S=7
+T=1063 Q=676 vel=7 S=4
+T=1074 Q=678 vel=9 S=1
+T=1085 Q=680 vel=9 S=0
+T=1100 Q=681 vel=9 S=33
+T=1136 Q=680 vel=33 S=78
+T=1146 Q=679 vel=78 S=19
+T=1151 Q=678 vel=19 S=10
+T=1161 Q=677 vel=21 S=0
+T=1169 Q=676 vel=8 S=6
+T=1179 Q=674 vel=7 S=8
+T=1190 Q=672 vel=7 S=4
+T=1201 Q=670 vel=7 S=8
+T=1212 Q=668 vel=6 S=5
+T=1223 Q=666 vel=6 S=9
+T=1234 Q=664 vel=7 S=8
+T=1244 Q=662 vel=7 S=10
+T=1256 Q=660 vel=7 S=9
+T=1267 Q=658 vel=7 S=13
+T=1278 Q=655 vel=10 S=3
+T=1289 Q=653 vel=15 S=4
+T=1300 Q=650 vel=7 S=1
+T=1311 Q=648 vel=6 S=2
+T=1322 Q=646 vel=6 S=7
+T=1333 Q=644 vel=7 S=7
+T=1344 Q=642 vel=6 S=12
+T=1355 Q=639 vel=10 S=0
+T=1366 Q=637 vel=15 S=2
+T=1377 Q=634 vel=7 S=0
+T=1388 Q=633 vel=17 S=6
+T=1400 Q=630 vel=7 S=5
+T=1410 Q=628 vel=6 S=5
+T=1421 Q=626 vel=7 S=10
+T=1433 Q=624 vel=7 S=10
+T=1444 Q=621 vel=14 S=1
+T=1455 Q=619 vel=11 S=6
+T=1466 Q=616 vel=15 S=7
+T=1478 Q=614 vel=7 S=5
+T=1488 Q=612 vel=8 S=1
+T=1499 Q=610 vel=9 S=3
+T=1510 Q=609 vel=20 S=5
+T=1521 Q=607 vel=15 S=2
+T=1533 Q=606 vel=11 S=15
+T=1544 Q=605 vel=29 S=10
+T=1556 Q=604 vel=16 S=18
+T=1568 Q=602 vel=14 S=5
+T=1582 Q=601 vel=14 S=35
+T=1591 Q=600 vel=35 S=18
+T=1604 Q=599 vel=18 S=28
+T=1614 Q=598 vel=28 S=21
+T=1636 Q=597 vel=21 S=47
+T=1654 Q=596 vel=47 S=38
+T=1715 Q=597 vel=38 S=130
+T=1733 Q=598 vel=130 S=38
+T=1754 Q=599 vel=38 S=44
+T=1771 Q=600 vel=44 S=36
+T=1812 Q=601 vel=36 S=88
+T=1843 Q=602 vel=88 S=67
+T=1971 Q=601 vel=67 S=275
+T=2002 Q=600 vel=275 S=67
+T=2065 Q=599 vel=67 S=135
+T=2196 Q=600 vel=135 S=283
